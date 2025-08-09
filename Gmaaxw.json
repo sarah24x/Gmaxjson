@@ -22,5 +22,11 @@
         "key": "pass9975",
         "expirydate": "09-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "8b910fe1f80c1d5d",
+        "key": "pass99775",
+        "expirydate": "25-08-2025",
+        "Allowoffline": false
     }
 ]
