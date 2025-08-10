@@ -39,6 +39,6 @@
         "device_id": "ad926567eabef2b8",
         "key": "pass99un",
         "expirydate": "09-09-2025",
-        "Allowoffline": pass99un
+        "Allowoffline": false
     }
 ]
