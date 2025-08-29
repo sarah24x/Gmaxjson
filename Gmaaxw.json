@@ -64,5 +64,11 @@
         "key": "pass406x",
         "expirydate": "28-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "9ab6d5d961c818c2",
+        "key": "pass0826",
+        "expirydate": "30-09-2025",
+        "Allowoffline": false
     }
 ]
