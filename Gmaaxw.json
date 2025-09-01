@@ -106,5 +106,11 @@
         "key": "passwrd73x",
         "expirydate": "01-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "9ef04feed73134bd",
+        "key": "passwrd104",
+        "expirydate": "01-10-2025",
+        "Allowoffline": false
     }
 ]
