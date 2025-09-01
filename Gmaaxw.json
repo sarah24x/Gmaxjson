@@ -76,5 +76,17 @@
         "key": "pass406xx",
         "expirydate": "30-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "248ca5812ac993b5",
+        "key": "passs406",
+        "expirydate": "01-10-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "443201e67ef11e96",
+        "key": "pass406xx",
+        "expirydate": "01-10-2025",
+        "Allowoffline": false
     }
 ]
