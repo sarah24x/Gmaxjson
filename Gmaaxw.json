@@ -130,5 +130,11 @@
         "key": "passwrdkey77",
         "expirydate": "03-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "50b30b56f62bb33d",
+        "key": "passwrdkey25",
+        "expirydate": "05-10-2025",
+        "Allowoffline": false
     }
 ]
