@@ -178,5 +178,11 @@
         "key": "passwrdkey39x",
         "expirydate": "07-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "7129a4645f475fca",
+        "key": "passwrr406x",
+        "expirydate": "08-10-2025",
+        "Allowoffline": false
     }
 ]
