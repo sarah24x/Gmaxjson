@@ -230,13 +230,19 @@
     {
         "device_id": "7ab312f7129328af",
         "key": "passwrd43k0",
-        "expirydate": "11-10-2025",
+        "expirydate": "06-10-2025",
         "Allowoffline": false
     },
     {
         "device_id": "748ace169b9f2086",
         "key": "passwrd406k",
         "expirydate": "11-12-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "535635bb91db0d68",
+        "key": "passwrrdx43",
+        "expirydate": "06-10-2025",
         "Allowoffline": false
     }
 ]
