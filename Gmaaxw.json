@@ -56,13 +56,13 @@
     {
         "device_id": "e7005dd91ceff5c4",
         "key": "pass406",
-        "expirydate": "28-09-2025",
+        "expirydate": "28-12-2025",
         "Allowoffline": false
     },
     {
         "device_id": "f4803079ec826f57",
         "key": "pass406x",
-        "expirydate": "28-09-2025",
+        "expirydate": "28-12-2025",
         "Allowoffline": false
     },
     {
@@ -74,19 +74,19 @@
     {
         "device_id": "78430acfe4345d2f",
         "key": "pass406xx",
-        "expirydate": "30-09-2025",
+        "expirydate": "30-12-2025",
         "Allowoffline": false
     },
     {
         "device_id": "248ca5812ac993b5",
         "key": "passs406",
-        "expirydate": "01-10-2025",
+        "expirydate": "01-12-2025",
         "Allowoffline": false
     },
     {
         "device_id": "3a73708e6d728e4b",
         "key": "passs406x",
-        "expirydate": "01-10-2025",
+        "expirydate": "01-12-2025",
         "Allowoffline": false
     },
     {
@@ -182,7 +182,7 @@
     {
         "device_id": "7129a4645f475fca",
         "key": "passwrr406x",
-        "expirydate": "08-10-2025",
+        "expirydate": "08-12-2025",
         "Allowoffline": false
     },
     {
@@ -200,7 +200,7 @@
     {
         "device_id": "21f903dac04db17c",
         "key": "passwrxr406",
-        "expirydate": "11-10-2025",
+        "expirydate": "11-12-2025",
         "Allowoffline": false
     },
     {
