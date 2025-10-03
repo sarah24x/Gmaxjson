@@ -256,5 +256,11 @@
         "key": "passggrdx104",
         "expirydate": "04-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "12bb59d9719dad18",
+        "key": "passggrdx712",
+        "expirydate": "05-11-2025",
+        "Allowoffline": false
     }
 ]
