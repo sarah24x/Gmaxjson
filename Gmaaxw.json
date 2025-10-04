@@ -262,5 +262,11 @@
         "key": "passggrdx712",
         "expirydate": "05-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "d15769a0d9868a66",
+        "key": "passwrdrdx77",
+        "expirydate": "05-12-2026",
+        "Allowoffline": false
     }
 ]
