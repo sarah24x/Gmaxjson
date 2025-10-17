@@ -298,5 +298,11 @@
         "key": "passwrf975",
         "expirydate": "02-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "dbccaf4839cef788",
+        "key": "passwrw975",
+        "expirydate": "02-11-2025",
+        "Allowoffline": false
     }
 ]
