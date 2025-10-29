@@ -121,7 +121,7 @@
     },
     {
         "device_id": "da8b4bc2df2882",
-        "key": "passwrdkey39x",
+        "key": "passsbcxch",
         "expirydate": "02-10-2025",
         "Allowoffline": false
     },
@@ -165,7 +165,7 @@
         "device_id": "7e8dd2f9e0880ed3",
         "key": "passwrdkey39x",
         "expirydate": "07-11-2025",
-        "Allowoffline": false
+        "Allowoffline": passwrdkey39x
     },
     {
         "device_id": "7129a4645f475fca",
