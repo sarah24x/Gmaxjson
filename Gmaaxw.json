@@ -165,7 +165,7 @@
         "device_id": "7e8dd2f9e0880ed3",
         "key": "passwrdkey39x",
         "expirydate": "07-11-2025",
-        "Allowoffline": passwrdkey39x
+        "Allowoffline": false
     },
     {
         "device_id": "7129a4645f475fca",
