@@ -316,5 +316,11 @@
         "key": "passwrd4165",
         "expirydate": "21-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "63849b1b71cbb3cf",
+        "key": "passwr6904",
+        "expirydate": "02-12-2025",
+        "Allowoffline": false
     }
 ]
