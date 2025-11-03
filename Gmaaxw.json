@@ -322,5 +322,11 @@
         "key": "passwr6904",
         "expirydate": "02-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "2a3a44c8a4b61470",
+        "key": "passwrdm77",
+        "expirydate": "02-12-2026",
+        "Allowoffline": false
     }
 ]
