@@ -328,5 +328,11 @@
         "key": "passwrdm77",
         "expirydate": "02-12-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "b2f23632c9eab708",
+        "key": "paswordv75",
+        "expirydate": "27-11-2025",
+        "Allowoffline": false
     }
 ]
