@@ -334,5 +334,11 @@
         "key": "paswordv75",
         "expirydate": "27-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "89b44f9cf2157e71",
+        "key": "paswordv3043",
+        "expirydate": "01-12-2025",
+        "Allowoffline": false
     }
 ]
